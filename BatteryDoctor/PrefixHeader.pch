@@ -1,0 +1,12 @@
+//
+//  PrefixHeader.pch
+//  BatteryDoctor
+//
+//  Created by hj on 16/8/22.
+//  Copyright © 2016年 hj. All rights reserved.
+//
+
+
+#import "Macro.h"
+#import "Header.h"
+

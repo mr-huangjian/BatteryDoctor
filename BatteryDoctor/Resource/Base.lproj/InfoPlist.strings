@@ -1,0 +1,9 @@
+/* InfoPlist.strings
+  BatteryDoctor
+
+  Created by hj on 16/8/30.
+  Copyright © 2016年 hj. All rights reserved. */
+
+/* 应用名称 */
+"CFBundleDisplayName" = "Battery Doctor";
+

@@ -1,0 +1,123 @@
+/* Localizable.strings
+  BatteryDoctor
+
+  Created by hj on 16/8/30.
+  Copyright © 2016年 hj. All rights reserved. */
+
+/* 电池医生 */
+"battery doctor" = "电池医生";
+
+/* 可用时间 */
+"using time" = "可用时间";
+
+/* 小时 */
+"hour" = "小时";
+
+/* 分 */
+"minute" = "分";
+
+/* 一键省电 */
+"saving all" = "一键省电";
+
+/* 预计可用时长 */
+"expected time to use" = "预计可用时长";
+
+/* 电池健康监测 */
+"test quality of PIN" = "电池健康监测";
+
+/* 网络测速 */
+"test speed connect" = "网络测速";
+
+/* 立即查看 */
+"see now" = "立即查看";
+
+/* 查看详情 */
+"see details" = "查看详情";
+
+/* 扫描中 */
+"sweep" = "扫描中";
+
+/* 内存占用 */
+"take memory" = "内存占用";
+
+/* 内存占用过多，请立即加速 */
+"take a lot of RAM, let accelerate now" = "内存占用过多，请立即加速";
+
+/* 手机运行状态良好，无需加速 */
+"well running, shouldn't accelerate" = "手机运行状态良好，无需加速";
+
+/* 立即省电 */
+"save energy now" = "立即省电";
+
+/* 内存清理中 */
+"clear the memory" = "内存清理中";
+
+/* 完成 */
+"finish" = "完成";
+
+/* 已释放 */
+"released" = "已释放";
+
+/* 已为您续航 */
+"take a long time to you waitting" = "已为您续航";
+
+/* 当前电量 */
+"PIN at the present" = "当前电量";
+
+/* 电池健康 */
+"quality of PIN" = "电池健康";
+
+/* 电池健康度 */
+"reliable of PIN" = "电池健康度";
+
+/* 实际容量 */
+"actual capacity" = "实际容量";
+
+/* 理论容量 */
+"theoretical capacity" = "理论容量";
+
+/* 电池健康属于正常范围 */
+"quality normal battery" = "电池健康属于正常范围";
+
+/* 开始 */
+"start" = "开始";
+
+/* 点击按钮开始测试 */
+"click to test" = "点击按钮开始测试";
+
+/* 正在测试下载速度 */
+"test download speed" = "正在测试下载速度";
+
+/* 测速完毕 */
+"finish speeding test" = "测速完毕";
+
+/* 当前平均网速 */
+"connect speed now" = "当前平均网速";
+
+/* 测速失败，请重试 */
+"speed ​​test failed, please try again" = "测速失败，请重试";
+
+/* 网络连接异常 */
+"network connection exception" = "网络连接异常";
+
+/* 请检查网络连接状况 */
+"please check your network connection status" = "请检查网络连接状况";
+
+/* 网络繁忙 */
+"network busy" = "网络繁忙";
+
+/* 请稍候重试 */
+"please try again" = "请稍候重试";
+
+/* 为你省电 */
+"save power" = "为你省电";
+
+/* 点此重试 */
+"click here to try again" = "点此重试";
+
+/* 提示 */
+"prompt" = "提示";
+
+/* 系统可用存储空间不足20M */
+"20M not enough storage space available to the system" = "系统可用存储空间不足20M";
+

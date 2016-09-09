@@ -1,0 +1,71 @@
+{
+  "name": "iPhone设备硬件信息",
+  "list": [
+    {
+      "device_no": "0",
+      "device_name":"Unknown",
+      "battery_capacity": "0mAh",
+      "ramdom_access_memory": "0MB"
+    },
+    {
+      "device_no": "1000",
+      "device_name":"iPhone 4",
+      "battery_capacity": "1420mAh",
+      "ramdom_access_memory": "512MB"
+    },
+    {
+      "device_no": "1001",
+      "device_name":"iPhone 4s",
+      "battery_capacity": "1470mAh",
+      "ramdom_access_memory": "512MB"
+    },
+    {
+      "device_no": "1002",
+      "device_name":"iPhone 5",
+      "battery_capacity": "1440mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1003",
+      "device_name":"iPhone 5c",
+      "battery_capacity": "1507mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1004",
+      "device_name":"iPhone 5s",
+      "battery_capacity": "1560mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1005",
+      "device_name":"iPhone 5se",
+      "battery_capacity": "1560mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1006",
+      "device_name":"iPhone 6",
+      "battery_capacity": "1810mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1007",
+      "device_name":"iPhone 6 plus",
+      "battery_capacity": "2915mAh",
+      "ramdom_access_memory": "1GB"
+    },
+    {
+      "device_no": "1008",
+      "device_name":"iPhone 6s",
+      "battery_capacity": "1715mAh",
+      "ramdom_access_memory": "2GB"
+    },
+    {
+      "device_no": "1009",
+      "device_name":"iPhone 6s plus",
+      "battery_capacity": "2750mAh",
+      "ramdom_access_memory": "2GB"
+    }
+  ]
+}

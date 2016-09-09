@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="72" id="EMI-Nz-AB4" customClass="ScanViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="72"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="EMI-Nz-AB4" id="GJl-bk-s2p">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="71"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="McS-TV-cPF">
+                        <rect key="frame" x="18" y="16" width="40" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="ZDI-hF-Js7"/>
+                            <constraint firstAttribute="width" constant="40" id="dWu-qF-qus"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="应用名称" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q9Q-sn-rui">
+                        <rect key="frame" x="68" y="16" width="180" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="180" id="FOH-Ni-n2k"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="unSelected" translatesAutoresizingMaskIntoConstraints="NO" id="mLx-a9-zeb">
+                        <rect key="frame" x="278" y="25" width="22" height="22"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="22" id="2fR-17-uuX"/>
+                            <constraint firstAttribute="height" constant="22" id="5DJ-wa-HxY"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="mLx-a9-zeb" secondAttribute="trailing" constant="20" id="9Uu-y6-GFe"/>
+                    <constraint firstItem="q9Q-sn-rui" firstAttribute="centerY" secondItem="GJl-bk-s2p" secondAttribute="centerY" id="Bev-d6-Zq8"/>
+                    <constraint firstItem="q9Q-sn-rui" firstAttribute="leading" secondItem="McS-TV-cPF" secondAttribute="trailing" constant="10" id="N9J-pL-Spr"/>
+                    <constraint firstItem="McS-TV-cPF" firstAttribute="leading" secondItem="GJl-bk-s2p" secondAttribute="leading" constant="18" id="P2w-yl-XHc"/>
+                    <constraint firstItem="q9Q-sn-rui" firstAttribute="height" secondItem="McS-TV-cPF" secondAttribute="height" id="R2w-Vl-r2J"/>
+                    <constraint firstItem="McS-TV-cPF" firstAttribute="centerY" secondItem="GJl-bk-s2p" secondAttribute="centerY" id="cPI-t8-a43"/>
+                    <constraint firstItem="mLx-a9-zeb" firstAttribute="centerY" secondItem="GJl-bk-s2p" secondAttribute="centerY" id="v4N-ah-hny"/>
+                    <constraint firstItem="McS-TV-cPF" firstAttribute="centerY" secondItem="GJl-bk-s2p" secondAttribute="centerY" id="zpE-Dw-stb"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.98039215686274506" green="0.98039215686274506" blue="0.98039215686274506" alpha="0.90000000000000002" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="iconImageView" destination="McS-TV-cPF" id="Mo3-hS-NKk"/>
+                <outlet property="isSelectedImageView" destination="mLx-a9-zeb" id="k7J-ws-dFW"/>
+                <outlet property="nameLabel" destination="q9Q-sn-rui" id="71j-4R-4iO"/>
+            </connections>
+            <point key="canvasLocation" x="835" y="383"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="unSelected" width="22" height="22"/>
+    </resources>
+</document>

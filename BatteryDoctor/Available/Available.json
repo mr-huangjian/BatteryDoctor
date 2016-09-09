@@ -1,0 +1,141 @@
+{
+  "name": "预计可用时长",
+  "list": [
+    {
+      "no": "1000",
+      "zh_name": "WIFI上网可用",
+      "vi_name": "Mạng wifi khả dụng",
+      "en_name": "Available WIFI",
+      "ratio": "624",
+      "image": "item_1000"
+    },
+    {
+      "no": "1001",
+      "zh_name": "3G上网可用",
+      "vi_name": "Mạng 3G khả dụng",
+      "en_name": "Available 3G",
+      "ratio": "480",
+      "image": "item_1001"
+    },
+    {
+      "no": "1002",
+      "zh_name": "电影播放可用",
+      "vi_name": "Phát video khả dụng",
+      "en_name": "Available video",
+      "ratio": "678",
+      "image": "item_1002"
+    },
+    {
+      "no": "1003",
+      "zh_name": "在线视频播放可用",
+      "vi_name": "màn hình trực tuyến",
+      "en_name": "Available online video",
+      "ratio": "563",
+      "image": "item_1003"
+    },
+    {
+      "no": "1004",
+      "zh_name": "音乐播放可用",
+      "vi_name": "Phát music khả dụng",
+      "en_name": "Available music",
+      "ratio": "3720",
+      "image": "item_1004"
+    },
+    {
+      "no": "1005",
+      "zh_name": "阅读文章可用",
+      "vi_name": "Đọc văn bản khả dụng",
+      "en_name": "Available document ",
+      "ratio": "995",
+      "image": "item_1005"
+    },
+    {
+      "no": "1006",
+      "zh_name": "玩2D游戏可用",
+      "vi_name": "chơi trò chơi 2D",
+      "en_name": "Available 2D",
+      "ratio": "563",
+      "image": "item_1006"
+    },
+    {
+      "no": "1007",
+      "zh_name": "玩3D游戏可用",
+      "vi_name": "chơi trò chơi 3D",
+      "en_name": "Available 3D",
+      "ratio": "394",
+      "image": "item_1007"
+    },
+    {
+      "no": "1008",
+      "zh_name": "拍摄照片可用",
+      "vi_name": "Chụp ảnh khả dụng",
+      "en_name": "Available taking a photo",
+      "ratio": "266",
+      "image": "item_1008"
+    },
+    {
+      "no": "1009",
+      "zh_name": "录制视频可用",
+      "vi_name": "Quay video khả dụng",
+      "en_name": "Available taking a video",
+      "ratio": "225",
+      "image": "item_1009"
+    },
+    {
+      "no": "1010",
+      "zh_name": "GPS导航可用",
+      "vi_name": "GPS khả dụng",
+      "en_name": "Available GPS",
+      "ratio": "267",
+      "image": "item_1010"
+    },
+    {
+      "no": "1011",
+      "zh_name": "FaceTime可用",
+      "vi_name": "Facetime khả dụng",
+      "en_name": "Available facetime",
+      "ratio": "328",
+      "image": "item_1011"
+    },
+    {
+      "no": "1012",
+      "zh_name": "蓝牙音讯可用",
+      "vi_name": "có thể sử dụng bluetooth",
+      "en_name": "Available sounds bluetooth",
+      "ratio": "759",
+      "image": "item_1012"
+    },
+    {
+      "no": "1013",
+      "zh_name": "LED手电筒可用",
+      "vi_name": "Đèn led khả dụng",
+      "en_name": "Available LED",
+      "ratio": "166",
+      "image": "item_1013"
+    },
+    {
+      "no": "1014",
+      "zh_name": "语音备忘录可用",
+      "vi_name": "Ghi âm khả dụng",
+      "en_name": "Available recording",
+      "ratio": "1651",
+      "image": "item_1014"
+    },
+    {
+      "no": "1015",
+      "zh_name": "待机可用",
+      "vi_name": "chế độ chờ",
+      "en_name": "Available time to waitting",
+      "ratio": "13200",
+      "image": "item_1015"
+    },
+    {
+      "no": "1016",
+      "zh_name": "Siri可用",
+      "vi_name": "Siri khả dụng",
+      "en_name": "Available Siri",
+      "ratio": "536",
+      "image": "item_1016"
+    }
+  ]
+}

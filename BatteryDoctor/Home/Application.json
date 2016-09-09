@@ -1,0 +1,125 @@
+{
+  "name": "iOS系统应用信息",
+  "list": [
+    {
+      "image_icon": "iOS_Messages",
+      "zh_name": "电话",
+      "en_name": "Phone",
+      "vi_name": "Điện thoại"
+    },
+    {
+      "image_icon": "iOS_Safari",
+      "zh_name": "Safari",
+      "en_name": "Safari",
+      "vi_name": "Safari"
+    },
+    {
+      "image_icon": "iOS_Mail",
+      "zh_name": "邮件",
+      "en_name": "Mail",
+      "vi_name": "Email"
+    },
+    {
+      "image_icon": "iOS_Music",
+      "zh_name": "音乐",
+      "en_name": "Music",
+      "vi_name": "Âm nhạc"
+    },
+    {
+      "image_icon": "iOS_Messages",
+      "zh_name": "信息",
+      "en_name": "Messages",
+      "vi_name": "Tin tức"
+    },
+    {
+      "image_icon": "iOS_Photos",
+      "zh_name": "照片",
+      "en_name": "Photos",
+      "vi_name": "ẢNh chụp"
+    },
+    {
+      "image_icon": "iOS_Camera",
+      "zh_name": "相机",
+      "en_name": "Camera",
+      "vi_name": "Máy ảnh"
+    },
+    {
+      "image_icon": "iOS_Maps",
+      "zh_name": "地图",
+      "en_name": "Maps",
+      "vi_name": "Hình ảnh"
+    },
+    {
+      "image_icon": "iOS_App_Store",
+      "zh_name": "App Store",
+      "en_name": "App Store",
+      "vi_name": "App Store"
+    },
+    {
+      "image_icon": "iOS_Facetime",
+      "zh_name": "FaceTime",
+      "en_name": "FaceTime",
+      "vi_name": "FaceTime"
+    },
+    {
+      "image_icon": "iOS_Game_Center",
+      "zh_name": "Game Center",
+      "en_name": "Game Center",
+      "vi_name": "Game Center"
+    },
+    {
+      "image_icon": "iOS_Watch",
+      "zh_name": "Watch",
+      "en_name": "Watch",
+      "vi_name": "Watch"
+    },
+    {
+      "image_icon": "iOS_Calculator",
+      "zh_name": "计算器",
+      "en_name": "Calculator",
+      "vi_name": "Máy tính"
+    },
+    {
+      "image_icon": "iOS_iBooks",
+      "zh_name": "iBooks",
+      "en_name": "iBooks",
+      "vi_name": "iBooks"
+    },
+    {
+      "image_icon": "iOS_iTunes_Store",
+      "zh_name": "iTunes Store",
+      "en_name": "iTunes Store",
+      "vi_name": "iTunes Store"
+    },
+    {
+      "image_icon": "iOS_Contacts",
+      "zh_name": "通讯录",
+      "en_name": "Contacts",
+      "vi_name": "Danh bạ"
+    },
+    {
+      "image_icon": "iOS_Health",
+      "zh_name": "健康",
+      "en_name": "Health",
+      "vi_name": "Sức khỏe"
+    },
+    {
+      "image_icon": "iOS_Podcats",
+      "zh_name": "播客",
+      "en_name": "Podcats",
+      "vi_name": "Podcats"
+    },
+    {
+      "image_icon": "iOS_Wallet",
+      "zh_name": "Wallet",
+      "en_name": "Wallet",
+      "vi_name": "Wallet"
+    },
+    {
+      "image_icon": "iOS_Weather",
+      "zh_name": "天气",
+      "en_name": "Weather",
+      "vi_name": "Thời tiết"
+    }
+  ]
+}

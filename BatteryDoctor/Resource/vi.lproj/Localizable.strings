@@ -1,0 +1,123 @@
+/* Localizable.strings
+  BatteryDoctor
+
+  Created by hj on 16/8/30.
+  Copyright © 2016年 hj. All rights reserved. */
+
+/* 电池医生 */
+"battery doctor" = "Bác sĩ Pin";
+
+/* 可用时间 */
+"using time" = "Thời gian sử dụng";
+
+/* 小时 */
+"hour" = "G";
+
+/* 分 */
+"minute" = "P";
+
+/* 一键省电 */
+"saving all" = "Tiết kiệm tất cả";
+
+/* 预计可用时长 */
+"expected time to use" = "Dự tính thời gian sử dụng";
+
+/* 电池健康监测 */
+"test quality of PIN" = "độ bền của pin";
+
+/* 网络测速 */
+"test speed connect" = "Kiểm tra tốc độ mạng";
+
+/* 立即查看 */
+"see now" = "tìm xem";
+
+/* 查看详情 */
+"see details" = "Xem chi tiết";
+
+/* 扫描中 */
+"sweep" = "Quét";
+
+/* 内存占用 */
+"take memory" = "Chiếm dụng bộ nhớ";
+
+/* 内存占用过多，请立即加速 */
+"take a lot of RAM, let accelerate now" = "Chiếm dụng ram quá nhiều, xin tăng tốc ngay";
+
+/* 手机运行状态良好，无需加速 */
+"well running, shouldn't accelerate" = "Trạng thái vận hành tốt, không cần tăng tốc";
+
+/* 立即省电 */
+"save energy now" = "Tiết kiệm điện ngay";
+
+/* 内存清理中 */
+"clear the memory" = "Xóa bộ nhớ";
+
+/* 完成 */
+"finish" = "Hoàn thành";
+
+/* 已释放 */
+"released" = "thoát ra";
+
+/* 已为您续航 */
+"take a long time to you waitting" = "Đã kéo dài thời gian chờ cho bạn";
+
+/* 当前电量 */
+"PIN at the present" = "Pin hiện tại";
+
+/* 电池健康 */
+"quality of PIN" = "Chất lượng pin";
+
+/* 电池健康度 */
+"reliable of PIN" = "Độ bền của pin";
+
+/* 实际容量 */
+"actual capacity" = "Dung lượng thực tế";
+
+/* 理论容量 */
+"theoretical capacity" = "Dung lượng lí thuyết";
+
+/* 电池健康属于正常范围 */
+"quality normal battery" = "Chất lượng pin bình thường";
+
+/* 开始 */
+"start" = "Bắt đầu";
+
+/* 点击按钮开始测试 */
+"click to test" = "Click vào bắt đầu kiểm tra";
+
+/* 正在测试下载速度 */
+"test download speed" = "Đang kiểm tra tốc độ download";
+
+/* 测速完毕 */
+"finish speeding test" = "Hoàn tất kiểm tra tốc độ";
+
+/* 当前平均网速 */
+"connect speed now" = "Tốc độ mạng hiện tại";
+
+/* 测速失败，请重试 */
+"speed ​​test failed, please try again" = "Kiểm tra tốc độ thất bại,xin thử lại";
+
+/* 网络连接异常 */
+"network connection exception" = "Ngoại trừ kết nối mạng";
+
+/* 请检查网络连接状况 */
+"please check your network connection status" = "Vui lòng kiểm tra tình trạng kết nối mạng của bạn";
+
+/* 网络繁忙 */
+"network busy" = "mạng bận rộn";
+
+/* 请稍候重试 */
+"please try again" = "Vui lòng thử lại";
+
+/* 为你省电 */
+"save power" = "tiết kiệm năng lượng";
+
+/* 点此重试 */
+"click here to try again" = "Bấm vào đây để thử lại";
+
+/* 提示 */
+"prompt" = "nhanh chóng";
+
+/* 系统可用存储空间不足20M */
+"20M not enough storage space available to the system" = "20M không gian lưu trữ không đủ cung cấp cho hệ thống";
+

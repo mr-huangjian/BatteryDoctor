@@ -1,0 +1,66 @@
+/* Class = "UILabel"; text = "理论容量"; ObjectID = "37t-XD-N6f"; */
+"37t-XD-N6f.text" = "Dung lượng lí thuyết";
+
+/* Class = "UINavigationItem"; title = "电池医生"; ObjectID = "4Uh-RH-sR9"; */
+"4Uh-RH-sR9.title" = "Bác sĩ Pin";
+
+/* Class = "UINavigationItem"; title = "电池医生"; ObjectID = "7iV-4i-iKK"; */
+"7iV-4i-iKK.title" = "Bác sĩ Pin";
+
+/* Class = "UILabel"; text = "扫描中..."; ObjectID = "9FX-qf-5WX"; */
+"9FX-qf-5WX.text" = "Quét...";
+
+/* Class = "UIButton"; normalTitle = "立即省电"; ObjectID = "Crx-yf-gEh"; */
+"Crx-yf-gEh.normalTitle" = "Tiết kiệm điện ngay";
+
+/* Class = "UILabel"; text = "预计可用时长"; ObjectID = "J2n-zX-bCI"; */
+"J2n-zX-bCI.text" = "Dự tính thời gian sử dụng";
+
+/* Class = "UILabel"; text = "电池健康度"; ObjectID = "K0u-Lp-Vzu"; */
+"K0u-Lp-Vzu.text" = "Độ bền của pin";
+
+/* Class = "UILabel"; text = "内存占用"; ObjectID = "NiY-DU-QzG"; */
+"NiY-DU-QzG.text" = "Chiếm dụng bộ nhớ";
+
+/* Class = "UIButton"; normalTitle = "start"; ObjectID = "OzN-v2-jBb"; */
+"OzN-v2-jBb.normalTitle" = "Bắt đầu";
+
+/* Class = "UILabel"; text = "扫描中..."; ObjectID = "S9u-Mj-abO"; */
+"S9u-Mj-abO.text" = "Quét...";
+
+/* Class = "UILabel"; text = "恭喜内存释放\n888MB"; ObjectID = "VXT-SZ-W5g";"VXT-SZ-W5g.text" = "Chúc mừng giải phóng bộ nhớ";Class = "UINavigationItem"; title = "电池健康"; ObjectID = "Vuk-Es-Myy"; */
+"Vuk-Es-Myy.title" = "Chất lượng pin";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "YHV-PN-Prm"; */
+"YHV-PN-Prm.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "电池健康属于正常范围"; ObjectID = "dDY-xY-bxP"; */
+"dDY-xY-bxP.normalTitle" = "Chất lượng pin bình thường";
+
+/* Class = "UIButton"; normalTitle = "内存占用过多，请立即加速"; ObjectID = "djy-U0-DRh"; */
+"djy-U0-DRh.normalTitle" = "Chiếm dụng ram quá nhiều, xin tăng tốc ngay";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fgK-5w-u0Q"; */
+"fgK-5w-u0Q.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "一键省电"; ObjectID = "ho2-C7-lRY"; */
+"ho2-C7-lRY.normalTitle" = "Tiết kiệm tất cả";
+
+/* Class = "UILabel"; text = "实际容量"; ObjectID = "nig-qW-lR5"; */
+"nig-qW-lR5.text" = "Dung lượng thực tế";
+
+/* Class = "UINavigationItem"; title = "网络测速"; ObjectID = "o4c-6Q-npC"; */
+"o4c-6Q-npC.title" = "Kiểm tra tốc độ mạng";
+
+/* Class = "UILabel"; text = "立即查看"; ObjectID = "p7E-IG-4kU"; */
+"p7E-IG-4kU.text" = "Lập tức xem";
+
+/* Class = "UILabel"; text = "点击按钮开始测试"; ObjectID = "pDM-kp-NrJ"; */
+"pDM-kp-NrJ.text" = "Click vào bắt đầu kiểm tra";
+
+/* Class = "UINavigationItem"; title = "电池健康"; ObjectID = "xuZ-Ze-MQx"; */
+"xuZ-Ze-MQx.title" = "Chất lượng pin";
+
+/* 点此重试 */
+"kIM-gm-nWT.normalTitle" = "Bấm vào đây để thử lại";
+

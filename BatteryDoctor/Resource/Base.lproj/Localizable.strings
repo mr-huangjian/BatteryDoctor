@@ -1,0 +1,123 @@
+/* Localizable.strings
+  BatteryDoctor
+
+  Created by hj on 16/8/30.
+  Copyright © 2016年 hj. All rights reserved. */
+
+/* 电池医生 */
+"battery doctor" = "Battery Doctor";
+
+/* 可用时间 */
+"using time" = "using time";
+
+/* 小时 */
+"hour" = "h";
+
+/* 分 */
+"minute" = "m";
+
+/* 一键省电 */
+"saving all" = "saving all";
+
+/* 预计可用时长 */
+"expected time to use" = "expected time to use";
+
+/* 电池健康监测 */
+"test quality of PIN" = "test quality of PIN";
+
+/* 网络测速 */
+"test speed connect" = "test speed connect";
+
+/* 立即查看 */
+"see now" = "see now";
+
+/* 查看详情 */
+"see details" = "see details";
+
+/* 扫描中 */
+"sweep" = "sweep";
+
+/* 内存占用 */
+"take memory" = "take memory";
+
+/* 内存占用过多，请立即加速 */
+"take a lot of RAM, let accelerate now" = "take a lot of RAM, let accelerate now";
+
+/* 手机运行状态良好，无需加速 */
+"well running, shouldn't accelerate" = "well running, shouldn't accelerate";
+
+/* 立即省电 */
+"save energy now" = "save energy now";
+
+/* 内存清理中 */
+"clear the memory" = "clear the memory";
+
+/* 完成 */
+"finish" = "finish";
+
+/* 已释放 */
+"released" = "released";
+
+/* 已为您续航 */
+"take a long time to you waitting" = "take a long time to you waitting";
+
+/* 当前电量 */
+"PIN at the present" = "PIN at the present";
+
+/* 电池健康 */
+"quality of PIN" = "quality of PIN";
+
+/* 电池健康度 */
+"reliable of PIN" = "reliable of PIN";
+
+/* 实际容量 */
+"actual capacity" = "actual capacity";
+
+/* 理论容量 */
+"theoretical capacity" = "theoretical capacity";
+
+/* 电池健康属于正常范围 */
+"quality normal battery" = "quality normal battery";
+
+/* 开始 */
+"start" = "start";
+
+/* 点击按钮开始测试 */
+"click to test" = "click to test";
+
+/* 正在测试下载速度 */
+"test download speed" = "test download speed";
+
+/* 测速完毕 */
+"finish speeding test" = "finish speeding test";
+
+/* 当前平均网速 */
+"connect speed now" = "connect speed now";
+
+/* 测速失败，请重试 */
+"speed ​​test failed, please try again" = "speed ​​test failed, please try again";
+
+/* 网络连接异常 */
+"network connection exception" = "network connection exception";
+
+/* 请检查网络连接状况 */
+"please check your network connection status" = "please check your network connection status";
+
+/* 网络繁忙 */
+"network busy" = "network busy";
+
+/* 请稍候重试 */
+"please try again" = "please try again";
+
+/* 为你省电 */
+"save power" = "save power";
+
+/* 点此重试 */
+"click here to try again" = "click here to try again";
+
+/* 提示 */
+"prompt" = "prompt";
+
+/* 系统可用存储空间不足20M */
+"20M not enough storage space available to the system" = "20M not enough storage space available to the system";
+
