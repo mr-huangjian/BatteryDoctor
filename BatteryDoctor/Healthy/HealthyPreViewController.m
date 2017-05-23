@@ -21,6 +21,10 @@
 
     [self setIBOutlet];
     [self setIBAction];
+    
+    for (int i = 0; i < 5; i++) {
+        NSLog(@"i = %d", i);
+    }
 }
 
 - (void)viewWillAppear:(BOOL)animated
